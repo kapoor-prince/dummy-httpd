@@ -1,6 +1,6 @@
 galaxy_info:
   author: Prince Kapoor
-  description: This role will let you to install apache2 on manage nodes 
+  description: This role will let you to install apache2 on manage nodes using ansible galaxy roles 
   company: self for test purpose 
 
   # If the issue tracker for your role is not on github, uncomment the
