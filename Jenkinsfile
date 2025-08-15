@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Clone Repo') {
             steps {
-                git branch: 'main', url: 'https://github.com/kapoor-prince/dummy-httpd.git'
+                git branch: 'master', url: 'https://github.com/kapoor-prince/dummy-httpd.git'
             }
         }
         stage('Build') {
